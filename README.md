@@ -1,8 +1,8 @@
-# 20 Number Game ??
+# 20 Number Game
 
 A strategic mobile puzzle game built with React Native and Expo where players must place randomly generated numbers in ascending order across 20 slots.
 
-## ?? Game Overview
+## Game Overview
 
 ### How to Play
 
@@ -14,19 +14,11 @@ A strategic mobile puzzle game built with React Native and Expo where players mu
 
 ### Power-Ups
 
-- **?? Reroll** (1x per game): Changes the current number to a different random number
-- **? Delete** (1x per game): Removes a selected number from the board (click power-up, then click a filled box)
-- **??? Delete Three** (1x per game): Randomly removes three numbers from the board
+- **Reroll** (1x per game): Changes the current number to a different random number
+- **Delete** (1x per game): Removes a selected number from the board (click power-up, then click a filled box)
+- **Delete Three** (1x per game): Randomly removes three numbers from the board
 
-### Visual Features
-
-- Empty slots display their position number (1-20) for easy reference
-- Invalid placements trigger a shake animation with red highlight
-- Power-ups turn gray when used
-- Background turns red when game is over
-- Number display animates when reroll is used
-
-## ??? Technologies & Concepts Learned
+## Technologies & Concepts I Learned
 
 ### React Native Fundamentals
 
@@ -86,20 +78,6 @@ A strategic mobile puzzle game built with React Native and Expo where players mu
 - **Edge-to-edge content**: Utilizing full screen space
 - **Performance optimization**: Using native driver for animations
 
-## ?? Getting Started
+## Last Available Build
 
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-- Expo CLI
-- Android Studio (for Android emulator) or Xcode (for iOS simulator)
-
-### Installation
-
-1. Clone the repository
-
-```bash
-git clone <repository-url>
-cd random_number_game_mobile
-```
+https://expo.dev/accounts/moseveke/projects/src/builds/17b2141e-9f98-491a-a422-f617e3580f63
